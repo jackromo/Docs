@@ -7,6 +7,7 @@ Configuration is formatted as a series of [keys and values](#format-appendix).
 > {warn} Setting configuration through the browser will override all config set in the `.styleci.yml` file.
 
 <!-- -->
+
 > {danger} If you want to use our PHP header checking facility, you must configure that part on the settings page; it's the only part of the configuration not available through the `.styleci.yml` file.
 
 <a name="choosing-languages"></a>
